@@ -1,0 +1,5 @@
+(load "~/emacs/slime-init")
+(load "~/emacs/repositories")
+(load "~/emacs/color-theme")
+(load "~/emacs/paredit")
+(load "~/emacs/misc")
