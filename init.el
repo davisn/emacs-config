@@ -2,5 +2,6 @@
 (load "~/emacs/package-utils")
 (load "~/emacs/repositories")
 (load "~/emacs/color-theme")
+(load "~/emacs/clojure-init")
 (load "~/emacs/paredit")
 (load "~/emacs/misc")
