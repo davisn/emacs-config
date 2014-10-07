@@ -1,6 +1,9 @@
 ;; Set a custom color theme
 ;;
 ;; Note:  Theme is only set in graphic mode
+
+(package-utils/conditionally-install-packages '(color-theme))
+
 (require 'color-theme)
 
 (defun color-theme-ndavis-dark ()
