@@ -66,8 +66,6 @@
 (when (display-graphic-p)
   (eval-after-load "color-theme"
     '(progn ; Don't know why, but I could only get the follow to work with eval-after-load
-       (color-theme-initialize)
-       ;(color-theme-high-contrast)))
        (color-theme-ndavis-dark))))
 
 ;; Fuction to toggle fullscreen mode
