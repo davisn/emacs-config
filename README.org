@@ -20,7 +20,7 @@
   If you place the repository in a different location,
   you will need to update the paths to reflect the new location.
 
-  You may with to comment out features to don't want.
+  You may wish to comment out features to don't want.
 * Structure
   The repository follows a simple structure:
   1. [[file:init.el][init.el]] is the "master" file which loads everything
