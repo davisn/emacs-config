@@ -32,8 +32,6 @@
      in order to satisfy dependencies.
      You may with to alter this list to suite your needs.
   4. The remaining files setup specific features:
-     - [[file:color-theme.el][color-theme.el]] defines the color theme I use,
-       as well as a few view-related functions that I rarely use.
      - [[file:clojure-init.el][clojure-init.el]] ensures packages used
        for clojure/clojurescript development are installed.
      - [[file:slime-init.el][slime-init.el]] configures slime integration for Common Lisp development.
